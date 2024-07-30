@@ -46,6 +46,6 @@ Crea una sección (usando la etiqueta `<section>`) que contenga un encabezado h2
 
 > Pista: Usa selectores específicos para aplicar los diferentes estilos de borde a cada elemento. Recuerda usar padding adecuadamente para que el contenido no toque los bordes. Puedes usar clases para aplicar estilos específicos a los párrafos y la imagen.
 
-**¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
+**¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML y CSS.
 
 **¡Confío en tus habilidades!** Adelante, demuestra tu dominio  en CSS y lleva tus proyectos web al siguiente nivel.
