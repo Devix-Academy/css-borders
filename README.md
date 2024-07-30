@@ -44,6 +44,8 @@ Diseña un formulario con un input de texto, un textarea y un botón de envío. 
 ### Ejercicio # 5: La sección de contenido con bordes variados
 Crea una sección (usando la etiqueta `<section>`) que contenga un encabezado h2, dos párrafos y una imagen. La sección debe tener un borde de 2 píxeles sólido negro. El encabezado debe tener un borde inferior de 1 píxel punteado gris. Los párrafos deben tener un borde izquierdo de 3 píxeles de estilo "ridge" en color azul claro. La imagen debe tener un borde de 5 píxeles con el estilo "double" en color verde.
 
+> Pista: Usa selectores específicos para aplicar los diferentes estilos de borde a cada elemento. Recuerda usar padding adecuadamente para que el contenido no toque los bordes. Puedes usar clases para aplicar estilos específicos a los párrafos y la imagen.
+
 **¡No te rindas!** Si encuentras algún obstáculo durante los ejercicios, no dudes en consultar recursos adicionales, buscar ayuda en la comunidad online o repasar los conceptos aprendidos en el curso. Recuerda que la práctica constante es la clave para dominar el lenguaje HTML.
 
 **¡Confío en tus habilidades!** Adelante, demuestra tu dominio  en CSS y lleva tus proyectos web al siguiente nivel.
