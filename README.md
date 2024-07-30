@@ -1,4 +1,4 @@
-# Ejercicios para poner a prueba tus conocimientos de la lección: Borders and Outline
+# Ejercicios para poner a prueba tus conocimientos de la lección: Border and Outline
 
 **¡Desafía tus habilidades CSS!**
 
